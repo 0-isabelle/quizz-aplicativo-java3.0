@@ -2,57 +2,52 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
-    options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+    question: O que a palavra legend significa em português?
+"a) Legenda"
+"b) Conto"
+"c) História"
+"d) Lenda"
+"e) Legendário"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
-    options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+    question: Qual o número mínimo de jogadores em cada time numa partida de futebol?
+"a) 8"
+"b) 10"
+"c) 9"
+"d) 5"
+"e) 7"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
-    options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+    question:Atualmente, quantos elementos químicos a tabela periódica possui?
+"a) 113"
+"b) 109"
+"c) 108"
+"d) 118"
+"e) 92"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
-    options: [
-      "12",
-      "11",
-      "14",
-      "13"
+    question:Qual o nome do presidente do Brasil que ficou conhecido como Jango?
+"a) Jânio Quadros"
+"b) Jacinto Anjos"
+"c) Getúlio Vargas"
+"d) João Figueiredo"
+"e) João Goulart"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
-    options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+    question: De quem é a famosa frase “Penso, logo existo”?
+"a) Platão"
+"b) Galileu Galilei"
+"c) Descartes"
+"d) Sócrates"
+"e) Francis Bacon"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
