@@ -2,7 +2,7 @@
 let questions = [
   {
     numb: 1,
-    question: O que a palavra legend significa em português?
+    question: "O que a palavra legend significa em português?"
 "a) Legenda"
 "b) Conto"
 "c) História"
@@ -12,7 +12,7 @@ let questions = [
   },
   {
     numb: 2,
-    question: Qual o número mínimo de jogadores em cada time numa partida de futebol?
+    question: "Qual o número mínimo de jogadores em cada time numa partida de futebol?"
 "a) 8"
 "b) 10"
 "c) 9"
@@ -22,7 +22,7 @@ let questions = [
   },
   {
     numb: 3,
-    question:Atualmente, quantos elementos químicos a tabela periódica possui?
+    question:"Atualmente, quantos elementos químicos a tabela periódica possui?"
 "a) 113"
 "b) 109"
 "c) 108"
@@ -32,7 +32,7 @@ let questions = [
   },
   {
     numb: 4,
-    question:Qual o nome do presidente do Brasil que ficou conhecido como Jango?
+    question:"Qual o nome do presidente do Brasil que ficou conhecido como Jango?"
 "a) Jânio Quadros"
 "b) Jacinto Anjos"
 "c) Getúlio Vargas"
@@ -42,7 +42,7 @@ let questions = [
   },
   {
     numb: 5,
-    question: De quem é a famosa frase “Penso, logo existo”?
+    question: "De quem é a famosa frase “Penso, logo existo”?
 "a) Platão"
 "b) Galileu Galilei"
 "c) Descartes"
