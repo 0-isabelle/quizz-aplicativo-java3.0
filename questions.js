@@ -4,19 +4,17 @@ answers
 let questions = [
 {
 numb: 1,
-question: "Quem foi a única pessoa na história a receber o Prêmio
-Nobel em áreas científicas diferentes?",
-answer: "Marie Curiee",
-options: [
-"Albert Einstein",
-"Marie Curiee",
-"Stephen Hawking",
-"Linus Pauling"
+ question:De quem é a famosa frase “Penso, logo existo”?
+a) Platão
+b) Galileu Galilei
+c) Descartes
+d) Sócrates
+e) Francis Bacon
 ]
 },
 {
 numb: 2,
-question: "Qual o país mais novo do mundo?",
+question :"Qual o país mais novo do mundo?",
 answer: "Sudão do Sul",
 options: [
 "Timor Lestet",
@@ -26,41 +24,35 @@ options: [
 ]
 },
 {
-numb: 3,
-question: "Qual o nome do evento astronômico responsável pelo dia
-mais longo do ano?",
-answer: "Solstício de verão",
-options: [
-"Equinócio de outono",
-"Solstício de inverno",
-"Solstício de verão",
-"Solstício de outono"
+  numb:3,
+question:Quais o menor e o maior país do mundo?
+a) Vaticano e Rússia
+b) Nauru e China
+c) Mônaco e Canadá
+d) Malta e Estados Unidos
+e) São Marino e Índia 3,
+ 
 ]
 },
 {
 numb: 4,
-question: "Quantos pares de costelas um ser humano, normalmente,
-possui?",
-answer: "12",
-options: [
-"12",
-"11",
-"14",
-"13"
-]
+question: ] Qual o nome do presidente do Brasil que ficou conhecido como Jango?
+a) Jânio Quadros
+b) Jacinto Anjos
+c) Getúlio Vargas
+d) João Figueiredo
+e) João Goulart
 
 },
 {
-numb: 5,
-question: "Quais planetas do sistema solar realizam seu movimento de
-rotação em sentido horário?",
-answer: "Vênus e Urano",
-options: [
-"Saturno e Júpiter",
-"Vênus e Urano",
-"Terra e Marte",
-"Mercúrio e Saturno"
-]
+numb: 5,]Quantas casas decimais tem o número pi?
+a) Duas
+b) Centenas
+c) Infinitas
+d) Vinte
+e) Milhares
+question: 
+
 },
 // you can uncomment the below codes and make duplicate as more as you
 want to add question
@@ -68,13 +60,12 @@ want to add question
 1,2,3,5,6,7,8,9.....
 // {
 // numb: 6,
-// question: "Your Question is Here",
-// answer: "Correct answer of the question is here",
-// options: [
-// "Option 1",
-// "option 2",
-// "option 3",
-// "option 4"
+// question: 
 // ]
-// },
+O que a palavra legend significa em português?
+a) Legenda
+b) Conto
+c) História
+d) Lenda
+e) Legendário// },
 ];
